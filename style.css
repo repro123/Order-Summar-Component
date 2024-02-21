@@ -12,6 +12,7 @@
   --hover: hsl(245, 75%, 70%);
 }
 body {
+  min-height: 100vh;
   font-family: "Red Hat Display", sans-serif;
   font-size: 1.2rem;
   font-weight: 300;
